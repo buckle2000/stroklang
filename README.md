@@ -1,0 +1,3 @@
+# StrokLang
+
+![example](out.png)

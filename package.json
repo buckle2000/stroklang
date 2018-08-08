@@ -1,0 +1,7 @@
+{
+	"private": true,
+  "name": "stroklang",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha"
+  }
+}
